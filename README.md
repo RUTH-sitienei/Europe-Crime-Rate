@@ -1,2 +1,2 @@
-# Budget-Safety-Destination-Recommendation
+#Safety-Destination-Recommendation
 Data Mining project using crime data classification
